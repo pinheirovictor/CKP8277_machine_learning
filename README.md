@@ -4,4 +4,4 @@
 
 
 ## Notas
-Este repositório foi criado para documentar o progresso nos trabalhos da disciplina _CKP8277 - Aprendizagem Automática_ da Universidade Federal do Ceará.
+Este repositório foi criado para documentar o progresso nos trabalhos da disciplina _CKP8277 - Aprendizagem Automática_ da Universidade Federal do Ceará
